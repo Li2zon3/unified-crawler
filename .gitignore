@@ -1,0 +1,16 @@
+# This folder contains many personal scripts. To keep this GitHub repo
+# focused and prevent accidental commits, ignore everything by default
+# and explicitly allow only the project files below.
+*
+
+!.gitignore
+!README.md
+!LICENSE
+!requirements.txt
+!unified_crawler.py
+
+# Allow common optional docs/examples if added later
+!CHANGELOG.md
+!examples/
+!examples/**
+
